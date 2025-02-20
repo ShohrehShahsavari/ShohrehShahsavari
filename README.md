@@ -28,7 +28,7 @@ I'm always open to connecting with fellow developers, collaborating on projects,
 
 - [LinkedIn](linkedin.com/in/shohre-shahsavari-)
 - [Google Scholar](https://scholar.google.com/citations?user=coUufVoAAAAJ&hl=en)
-- [Email](shohre.shahsavari@gmail.com)
+- **Email** : shohre.shahsavari@gmail.com
 
 ---
 
