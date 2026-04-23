@@ -30,6 +30,3 @@ I'm always open to connecting with fellow developers, collaborating on projects,
 - [Google Scholar](https://scholar.google.com/citations?user=coUufVoAAAAJ&hl=en)
 - **Email** : shohre.shahsavari@gmail.com
 
----
-
-⭐️ Thanks for visiting my profile! If you find any of my projects interesting or useful, feel free to star them and share your feedback. Happy coding! 🚀
